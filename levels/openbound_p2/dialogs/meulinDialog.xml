@@ -1,0 +1,141 @@
+<sburb description='meulin dialogs'>
+	<classes>
+		<action sprite='meenah' class='meulinTalk1' command='talk' name='Hablar con Meulin.'>
+      <args>
+      @meenah_idle MEENAH: eh meu
+      @meulin_happier MEULIN: (=｀ω´=) &lt; &#161;&#161;&#161;&#161;&#161;&#161;&#161;&#161;&#161;33333333333!!!!!!!!!
+      @meulin_happiertalk:#33M33#O#G33 MEULIN: (^・ω・^ ) &lt; GOMGOMGOGOMGOGMMGOMGOMGOGMOGMOGMOG. &#161;&#161;&#161;MOG!!!
+      @meenah_idle MEENAH: leijon t&#237;a
+      @meenah_talk MEENAH: esos globos sonoros tuyos
+      @meenah_talk MEENAH: me los relajas un poco
+      @meulin_worry MEULIN: (^・x・^) &lt; NO.
+      @meulin_talk MEULIN: (=^･^=) &lt; NO PI33NSO R33LAJARLOS.
+      @meulin_talk2 MEULIN: ヽ(=^･ω･^=)丿 &lt; MIS GLOBOS S33GUIR&#193;N T33NSOS Y LL33NOS DE FURRYA PORQU33, R33PITO:
+      @meulin_happier MEULIN: (^･o･^)ﾉ &lt; MOG.
+      @meenah_idle MEENAH: &#191;mog?
+      @meulin_talk MEULIN: (=^･^=) &lt; MOG, M33NAH.
+      @meulin_happier:#:33 MEULIN: ~(=^‥^)ノ &lt; &#161;&#161;&#161;&#161;&#161;&#161;&#161;&#161;&#161;_MOG_!!!!!!!!!
+      @meenah_annoyed MEENAH: qu&#233; co&#241;o dices
+      @meulin_happy:#AUNQU33-NO-33ST33-BI33N-33SCRITO MEULIN: (^./_.^)ﾉ &lt; M33NAH, POR FAVOR. &#191;QU33 MAS L33 PU33D33S P33DIR A MOG?
+      @meenah_annoyedtalk MEENAH: vaya mierda palabro chaval
+      @meenah_talk MEENAH: ah vale lo que quieres decir es omg
+      @meulin_oops MEULIN: (=^･ω･^=) &lt; (=^-ω-^=)
+      @meenah_annoyed MEENAH: pues esa tambi&#233;n es un tru&#241;o del quince
+      @meenah_annoyed MEENAH: s&#233; que eres f&#237;sicamente incapaz de controlar el volumen de tus gritos de fangirl pero haz un esfuerzo
+      @meenah_annoyed MEENAH: es lo m&#237;nimo que te pido joer
+      @meulin_wut MEULIN: (^./_.^)
+      @meenah_idle MEENAH: o
+      @meenah_talk MEENAH: deber&#237;a decir
+      @meenah_happy:#3;) MEENAH: "lo minino"
+      @meulin_happier:#33L-ATAQU33-D33-LAS-33S MEULIN: (=^ω^=) &lt; &#161;&#161;&#161;&#161;&#161;&#161;&#161;&#161;&#161;333333333333333333333333333333333!!!!!!!!!
+      @meulin_happiertalk MEULIN: (^･o･^) &lt; &#161;T33 H33 33CHADO MUCHIIIIIIIISIMO D33 M33NOS M33NAH! &#161;&#161;&#161;YA PODRIAMOS HAB33R QU33DADO ALGUNA V33Z DURANT33 LA S33SION!!!
+      @meulin_worrytalk MEULIN: (=^‥^=) &lt; AHORA QU33 T33NGO TI33MPO PARA P33NSAR, M33 ARR33PI33NTO MIAUCHO DE 33LLO.
+      @meenah_talk MEENAH: a lo mejor es porque yo te ca&#237;a gorda
+      @meenah_talk MEENAH: pero no pasa nada ya estoy acostumbrada
+      @meulin_talk2:#&#161;YO-T33-SHIP33O-CON-LO-M33JORCITO! MEULIN: (=^･ｪ･^=) &lt; &#191;333333H? &#161;33SO 33S M33NTIRA! &#161;SI SI33MPR33 M33 HAS CAIDO G33NIAL! &#191;NO?
+      @meenah_talk MEENAH: pero si he intentao matarte unas cuantas veces
+      @meulin_wut MEULIN: (^・x・^) &lt; &#191;AH SI? PU33S YO NO M33 ACU33RDO...
+      @meenah_talk MEENAH: bueno eso ya es agua pasada
+      @meulin_idle MEULIN:  (^･o･^) &lt; &#161;&#161;&#161;VIVA!!!
+      @meulin_worrytalk MEULIN: (^./_.^)ﾉ  &lt; P33RO, 33H, &#191;33SO NO D33B33RIA D33CIRLO YO, QU33 SOY LA VICTIMA?
+      @meenah_idle MEENAH: ...
+      @meenah_talk:#tensa-las-tetas-si-quieres MEENAH: anda leijadora c&#225;llate un rato y vuelve a ponerte hist&#233;rica
+      @meulin_happier MEULIN: (=ＴェＴ=)  &lt; &#161;&#161;&#161;&#161;&#161;&#161;&#161;&#161;&#161;3333333333333333333333333333333333333333333!!!!!!!!!
+      @meulin_mime4~meme1  
+      @meulin_mime3~meme2  
+      @meulin_mime2~meme3  
+      @meenah_annoyedtalk MEENAH: quieres dejar ya esa mierda mimos
+      @meenah_annoyedtalk:#la-peor-forma-de-comunicarse-de-la-historia MEENAH: de verdad no hay qui&#233;n te entienda ni&#241;a
+      @meulin_talk:#"P33SCA"#!!!#&#191;LO-PILLAS?#&#161;&#161;&#161;SOMOS-AMIGAS!!! MEULIN: (=^･ω･^=) &lt; HAC33 MUCHO TI33MPO QU33 NO NOS V33S NI A MI NI A TODA LA P33SCA. &#161;TI33N33S QU33 PON33RT33 AL DIA!
+      @meenah_idle MEENAH: esto
+      @meenah_talk MEENAH: no te creas
+      @meenah_annoyedtalk:#pude-sentirlo-incluso-siendo-t&#233;cnicamente-"otra-persona" MEENAH: acabo de toparme con varios pelmas por el camino y no veas qu&#233; brasa en serio
+      @meulin_happy:#&#161;&#161;&#161;LA-CURIOSIDAD-MATO-AL-GATO-P33RO-NO-SUS-CHIST33S-GATUNOS!!!#:33 MEULIN: (=^･^=) &lt; &#191;QU33 DIC33S? NOS HAN PASADO MOGOLLON D33 COSAS 33N 33L MAS ALLA. H33MOS PURRGR33SADO UN MONTON 33N NU33STROS PROBL33MAS Y CR33O QU33 YA H33MOS 33NT33GARRADO 33L HACHA D33 GU33RRA.
+      @meenah_talk MEENAH: hablando de guerra no os veo muy duchos en esto del combate
+      @meenah_annoyedtalk MEENAH: corr&#233;is el riesgo de palmarla otra vez &#191;lo sab&#237;as?
+      @meulin_happier MEULIN: (=^･ｪ･^=) &lt; &#161;&#161;&#161;&#161;&#161;&#161;&#161;&#161;&#161;AY, 33L SHIP33O!!!!!!!!!
+      @meulin_happiertalk MEULIN: ＼(=^‥^)// &lt; &#161;OMG M33NAH, 33L SHIPP33OOOOOOOO! (=；ェ；=)  ヾ(=ﾟ･ﾟ=)ﾉ  (^・ω・^ ) 
+      @meulin_happiertalk MEULIN: (^・ω・^ ) &lt; &#191;A QU33 NO SAB33S _QUI33N33S_ S33 HAN ARR33JUNTADO A LO LARGO D33 LOS CICLOS? &#161;AY, LOS CUADRANT33S! CUANDO T33 DIGA LOS CUADRANT33S... T33 VAS A QU33DAR _MU_. _33R_. _TA_.
+      @meulin_oops:#NO#YO... MEULIN: (=^･^=) &lt; NO PU33DO NI 33XPR33SARLO CON PALABRAS... YO...
+      @meulin_worry:#NO#S33-ACABO MEULIN: (^・x・^) &lt; NO PU33DO.
+      @meulin_talk2:#YO-NO-POD33R MEULIN: └(=^‥^=)┐ &lt; SI DIGO QU33 NO PU33DO 33S QU33 NO PU33DO.
+      @meenah_wut2 MEENAH: 38|
+      @meulin_worrytalk MEULIN: (=；ェ；=)  &lt; TU NO LO 33NTI33ND33S, M33NAH. LOS F33LS.
+      @meulin_happiertalk:#&#161;&#161;&#161;SOBR33CARGA-D33-MIMOS!!! MEULIN: (=ＴωＴ=) &lt; &#161;&#161;&#161;&#161;&#161;&#161;&#161;&#161;&#161;LOS F333333333LS!!!!!!!!!
+      @meulin_mime3~meme4  
+      @meulin_mime2~meme5  
+      @meulin_mime4~meme6  
+      @meenah_talk MEENAH: ya me parec&#237;a a m&#237; que acabar&#237;amos hablando de folleteo como marujas
+      @meenah_talk:#toma-mi-n&#250;mero#&#191;todav&#237;a-ten&#233;is-esos-m&#243;viles-de-concha? MEENAH: en fin si en alg&#250;n momento quieres hablar de algo importante p&#233;game un toque
+      @meenah_talk MEENAH: ya te pegar&#233; un meullido
+      <!--  -->
+      </args>
+</action>
+
+<action sprite='meenah' class='meulinTalk2' command='talk' name='Pedirle a Meulin que se una.'>
+      <args>
+      @meenah_idle MEENAH: a ver
+      @meenah_talk MEENAH: cu&#225;l es tu excusa para no alistarte en la batalla contra el se&#241;or ingl&#233;s
+      @meulin_wut MEULIN: (^./_.^) &lt; &#191;&#191;&#191;33S QU33 QUI33R33S QU33 M33 33NFR33NT33 A _33S33 TIPO_???
+      @meulin_worrytalk MEULIN: (^･o･^) &lt; NO S33, L33 V33O CARA D33 T33N33R MALAS PULGAS...
+      @meenah_annoyed MEENAH: buenoooooo
+      @meulin_talk2 MEULIN: (=^‥^=) &lt; OY33, NO DIGO QU33 VAYA A LAVARM33 LAS PATAS, 33S SOLO QU33 AHORA T33NGO MUCHOS OVILLOS 33NTR33 MANOS.
+      @meulin_happy MEULIN: ＼(=^‥^)// &lt; HAY TANTISIMAS SHIPS 33N POT33NCIA. &#161;UNA ALCAHU33TA APLICADA A LA T33ORIA NUNCA D33SCANSA!
+      @meenah_talk MEENAH: eso no tiene nada de responsabilidad maja
+      @meulin_talk MEULIN: (=^･ｪ･^=) &lt; NO T33 M33 PONGAS D33 MALA LECHE. &#161;NO 33S QU33 NO QUI33RA, 33S QU33 YO NO CR33O QU33 VAYA A S33RVIR D33 MUCHO!
+      @meulin_happy MEULIN: ~(=^‥^)ノ &lt; &#191;T33 HAS FIJADO 33N LA SUTIL33ZA GATUNA D33 "L33CH33"?
+      @meenah_talk MEENAH: a m&#237; me suena verte siempre con cara de ostra cuando te hablo de cualquier cosa que no sean cotilleos o cosas de gatos pero en delf&#237;n      @meenah_happytalk:#ah#y-'ostra'-es-un-molusco#y-'en-delf&#237;n'-lo-digo-si-no-se-me-ocurre-na MEENAH: &#191;te has fijao en la sutileza mar&#237;tima de la palabra id&#233;ntica al verbo "sonar"?
+      @meulin_talk MEULIN: (^・ω・^ )  &lt; JOOOOOOOOO M33NAH, QU33DAT33 UN RATO CONMIGO A D33SCANSAR D33 TANTA CAMINATA.
+      @meulin_talk MEULIN: (^･o･^) &lt; M33 HA CONTADO UN LINDO GATITO QU33 33STAS COLADITA POR 33L ANC33STRO D33 KANKRI. 
+      @meenah_wut MEENAH: ser&#225;s japuta
+      @meulin_happiertalk:#&#191;&#191;&#191;&#191;&#191;&#191;&#191;&#191;&#191;HMMM????????? MEULIN: ヽ(^‥^=ゞ) &lt; &#191;Y BI33N, M33NAH? &#191;M33 LO CONFIRMAS?
+      @meenah_annoyedtalk MEENAH: mira aunque fuera verdad
+      @meenah_angry MEENAH: y ya te digo yo que NO
+      @meenah_annoyedtalk:#d&#243;nde-lo-has-o&#237;do#bueno-quiero-decir#t&#250;-ya-me-entiendes MEENAH: &#191;se puede saber c&#243;mo huevas te has enterado ya?
+      @meulin_laugh MEULIN: (=^ω^=) &lt; &#161;AAAAAAAH! &#161;&#161;&#161;&#161;&#161;&#161;&#161;&#161;&#161;SI, SI, SI, LO SABIA!!!!!!!!!
+      @meulin_dies:#*S33-MU33R33* MEULIN: (=ｘェｘ=) &lt; _MU33RO_ 
+      @meenah_annoyed MEENAH: s&#237; por favor
+      @meulin_idle MEULIN: ヾ(=ﾟ･ﾟ=)ﾉ &lt; &#191;QUI33R33S UNA CITA CON 33L? NO R33SPONDAS TODAVIA, AUN TI33N33S QU33 CONT33MPLAR 33L POD33R D33 MI BRUJ33RIA AMOROSA. 
+      @meulin_happy MEULIN: (^･o･^)ﾉ &lt; 33S NORMAL QU33 NO 33ST33S AL CORRI33NT33 D33SPU33S D33 TANTOS CICLOS, &#161;P33RO 33STA MAGA D33L CORAZON YA HA OBRADO NO POCOS MILAGROS!
+      @meulin_talk2 MEULIN: (=^-ω-^=) &lt; ANT33S D33 33MP33ZAR, ACLARAM33 UNA COSA. &#191;QUI33R33S UNA PASION ROJA O N33GRA?
+      @meulin_wink MEULIN: (=ＴωＴ=) &lt; SOLO 33S POR AS33GURARM33, P33RO CLARAM33NT33 LA R33SPU33STA 33S OBVIA. TU D33S33O 33SCARLATA 33S KANKRI P33RO MAS JOV33N Y MUCHO MAS ATRONADOR, &#191;HMMMMMMMMM?
+      @meenah_idle MEENAH: leijon
+      @meenah_talk MEENAH: l&#233;eme los labios
+      @meenah_talk MEENAH: y haz como que me oyes porque te reventaba los t&#237;mpanos si pudiera
+      @meenah_talk MEENAH: veeete aaa laaa miiieeerrrrda
+      @meulin_oops MEULIN:  (^･ω･^)
+      @meenah_annoyedtalk:#la-boya#&lt;&lt;CHISTACO#boya-ya MEENAH: no me toques la boya ni&#241;a
+      @meenah_annoyedtalk MEENAH: ah&#243;rrate tus hormonas para un fic
+      @meenah_angrytalk MEENAH: que sea sobre nuestra primera vez o lo que t&#250; quieras pero C)(ITONA
+      @meulin_idle MEULIN: (^･o･^) &lt; OOOO. G3333. 33MM33.
+      @meulin_happiertalk MEULIN: (=^･^=) &lt; S33 M33 HA OCURRIDO ALGO _S33NSACIONAL_ PARA 33S33 FIC.
+      @meulin_happy MEULIN: ~(=^‥^)ノ &lt; P33RO TRANQUILA, NO PI33NSO CAMBIAR MI POLITICA D33 DIFUSION D33 MAT33RIAL LASCIVO. HASTA QU33 AMBAS PART33S D33 LA SHIP NO L33AN Y APRU33B33N 33L 33SCRITO, NINGUN ALMA SABRA D33L MISMO. &#161;&#161;&#161;PALABRITA!!!
+      @meenah_creepytalk:#una-saca-color-fucsia-con-mucha-purpurina-y-un-s&#237;mbolo-de-oro-macizo MEENAH: &#161;genial otra conversaci&#243;n de besugos pa la saca!
+      @meenah_idle MEENAH: M-E ABRO
+      <!--  -->
+      </args>
+</action>
+
+<action sprite='kurloz' class='meulinTalk3' command='talk' name='Hablar con Meulin.'>
+      <args>
+      @kurloz_bye KURLOZ: :o) 
+      @meulin_wut MEULIN: ヾ(=ﾟ･ﾟ=)ﾉ &lt; UF...
+      @meulin_wut MEULIN: (^./_.^) &lt; LA CAB33ZA M33 DA VU33LTAS, KURLOZ.
+      @meulin_wut:#HOY-NO-H33MOS-FUMADO-ALBAGATA-&#191;NO? MEULIN: (^./_.^) &lt; &#191;QU33 HA PASADO? NO R33CU33RDO NI COMO H33 LL33GADO AQUI.
+      @kurloz_mime1~kurmeme6:#:o)  
+      @meulin_laugh MEULIN: (=^ω^=) &lt; &#161;&#161;&#161;J33J33J33!!! YA, S33GURO QU33 NO 33S NADA.
+      @meulin_mime4~meme15  
+      @kurloz_mime2~kurmeme7:#:o)  
+      @meulin_mime5~meme16  
+      @kurloz_mime3~kurmeme8:#:o)  
+      @meulin_mime3~meme17  
+      @kurloz_bye KURLOZ: :o) 
+      @meulin_wut MEULIN: ~(=^‥^) &lt; &#191;33H? &#191;QU33 TI33N33S QU33 IR A HAC33R UN MANDADO?
+      @meulin_happy MEULIN: (=^-ω-^=) &lt; &#161;VAL33, QU33 T33 DIVI33RTAS!
+      @kurloz_smile~kurmeme9
+      <!--  -->
+      </args>
+</action>
+
+	</classes>
+</sburb>

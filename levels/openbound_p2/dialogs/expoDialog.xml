@@ -1,0 +1,119 @@
+<sburb description='exposition dialogs'>
+	<classes>
+		<action class='expoTalk0' command='talk' name='Preguntarle por la Operaci&#243;n Querub&#237;n.'>
+      <args>
+      @aranea_surprised ARANEA: Esto...
+      @aranea_think ARANEA: Todav&#237;a no la he encontrado.
+      @meenah_idle MEENAH: pero tienes alguna pista
+      @aranea_idle ARANEA: Ninguna.
+      @aranea_talk ARANEA: &#161;No hay forma de dar con su escondite!
+      @meenah_idle MEENAH: ya ya
+      @meenah_idle MEENAH: dime la verdad
+      @meenah_talk MEENAH: te has puesto ya con la b&#250;squeda...
+      @aranea_idle ARANEA: &#191;Eh?...
+      @meenah_happytalk MEENAH: &#191;o solamente te has molestado en atender tu puestecillo?
+      @aranea_annoyedtalk ARANEA: Gracias por preocuparte, pero s&#233; c&#243;mo distri8uir mi tiempo.
+      @meenah_talk MEENAH: no ha pasado na desde la pedrada de la &#250;ltima vez
+      @meenah_talk MEENAH: y tendr&#225;s que haber arrastrado el puesto desde all&#237; hasta aqu&#237;
+      @meenah_talk MEENAH: y esperarme que esa es otra
+      @meenah_fish MEENAH: cu&#225;nto has tardado en total
+      @aranea_angrytalk ARANEA: &#161;&#191;Eso qu&#233; m&#225;s da?!
+      @aranea_madtalk ARANEA: Hice varios altos en el camino para aclarar datos cruciales a ciertas personas, lo admito.
+      @aranea_annoyedtalk ARANEA: Somos seres curiosos, Meenah. NECESITAMOS informaci&#243;n, &#191;vale?
+      @meenah_idle MEENAH: &#191;la necesitamos?...
+      @meenah_happy MEENAH: &#191;no ser&#225;s t&#250; la que necesita darnos la chapa?
+      @aranea_angry ARANEA: &#161;&#161;&#161;&#161;&#161;&#161;&#161;&#161;Las dos cosas!!!!!!!!
+      @meenah_idle MEENAH: una pregunta
+      @meenah_talk MEENAH: les has pagado para que te escuchen
+      @aranea_annoyed ARANEA: ...
+      @aranea_annoyed ARANEA: S&#237;.
+      @aranea_facepalm ARANEA: &#191;&#191;&#191;&#191;&#191;&#191;&#191;&#191;Y QU&#201;????????
+      @meenah_annoyedtalk MEENAH: vale entre brasa y brasa cu&#225;nto tiempo crees que le has dedicado a la caza del querub&#237;n
+      @aranea_annoyed ARANEA: 8ueno...
+      @aranea_madtalk ARANEA: Mira, encontrar a un queru8&#237;n no es algo que se haga de la ma&#241;ana a la noche. Es un proceso complejo, misterioso y no se puede ir con prisas. &#161;&#161;&#161;&#161;&#161;&#161;&#161;&#161;Estoy tra8ajando en ello!!!!!!!!
+      @meenah_talk MEENAH: aranea serket voy a contarte una cosa y te va a salir gratis
+      @meenah_happytalk MEENAH: llevas las cosas tan de culo que me da risa pero te lo perdono porque me pareces adorable
+      @aranea_facepalm ARANEA:
+      <!--  -->
+      </args>
+      <action command='setGameState'>expo,true</action>
+</action>
+
+
+
+
+<action class='expoTalk1' command='talk' name='H&#225;blame de Cronus Ampora.'>
+      <args>
+      @aranea_happytalk ARANEA: Hoy en d&#237;a, el 8ardo de la Esperanza parece curado de espanto, pero hu8o una &#233;poca en la que no se le pod&#237;a sacar la magia de la ca8eza y se esforza8a por llegar a ser un gran mago. Qued&#243; convencido de que su meta en la vida era derrotar al peor de los magos ya que, seg&#250;n &#233;l, era algo que profetiza8an los &#225;ngeles. Pero cuando alguien pregunta8a por su nom8re, &#233;l siempre guarda8a silencio y dec&#237;a que no se atrev&#237;a siquiera a pronunciarlo. Entre las muchas an&#233;cdotas vanagloriosas de este hechicero, intent&#243; aca8ar con Cronus cuando solo ten&#237;a unos cuantos ciclos, para no tener que volver a enfrentarse a &#233;l. No o8stante, el maleficio se volvi&#243; en su contra y su alma qued&#243; sellada en varios artefactos hasta que el mago se las ingenie para volver a entrar en nuestro universo. Supuestamente, la marca de su inconfundi8le cicatriz proviene de dicho ataque. No tuvo pro8lemas en dec&#237;rmelo mientras me tira8a los tejos. Quiero decir, mientras ha8l&#225;8amos de nuestras cosas.
+      @aranea_happytalk ARANEA: Pero Cronus aca8&#243; desilusionado con la magia. Si sus delirios inveros&#237;miles eran ciertos, el cometido de derrotar a ese mago recaer&#237;a en su descendiente. Y si ese descendiente fracasa estrepitosamente, al igual que su antepasado, imagino que otro H&#233;roe de la Esperanza tomar&#237;a el relevo. No tengo muy claro el motivo de su crisis de fe, o8viando su total falta de escr&#250;pulos o cualquier otra cualidad positiva. Puede que alguien pusiera en tela de juicio sus creencias. Quiz&#225;s un amigo cercano o, en el caso de que la susodicha fantas&#237;a tuviera alg&#250;n sentido, un c&#243;mplice del malvado mago. Yo la verdad es que me alegro porque todo aquel que tenga dos dedos de frente no de8er&#237;a escuchar esas pamplinas.
+      @meenah_talk MEENAH: serket t&#237;a qu&#233; tienes en contra de las creencias ajenas
+      @meenah_fish MEENAH: oye que esa religi&#243;n tuya tampoco est&#225; pa tirar cohetes
+      @aranea_surprised ARANEA: Pero........
+      @aranea_think ARANEA: S&#237;, me he pasado de la raya. 
+      @aranea_madtalk ARANEA: Lo siento, solo quer&#237;a re&#237;rme contigo de alguien que nos cae mal a am8as. De verdad, c&#243;mo eres. &#191;Siempre has de criticar mis creencias a la primera de cam8io?
+      @aranea_annoyed ARANEA: A veces eres muy cruel.
+      @meenah_idle MEENAH: pu&#233; pagarme ahora
+      @aranea_angry ARANEA: Aqu&#237; tienes.
+      <!--  -->
+      </args>
+      <action command='setGameState'>expo,true</action>
+</action>
+
+
+<action class='expoTalk2' command='talk' name='H&#225;blame de Mituna Captor.'>
+      <args>
+      @aranea_happytalk ARANEA: El Heredero de la Muerte era un psi&#243;nico so8resaliente. Goza8a de visi&#243;n do8le y perci8&#237;a visiones prof&#233;ticas cada vez que se avecina8a un futuro inh&#243;spito. Aunque sol&#237;a advertirnos de nuestro camino hacia la perdici&#243;n, nunca le hicimos caso. Pero un fat&#237;dico d&#237;a, tras realizar un esfuerzo so8retroll, perdi&#243; todos sus poderes. No puede contarnos qu&#233; ocurri&#243; exactamente, pero deduzco que emple&#243; todas sus fuerzas en salvarnos de cierto peligro inminente, toda una haza&#241;a heroica. El incidente no solo inutiliz&#243; gran parte de su psique, sino que su car&#225;cter se volvi&#243; un tanto, eh... incoherente.
+      @meenah_talk MEENAH: es verdad siempre me qued&#233; con la duda
+      @meenah_talk MEENAH: se supo al final qu&#233; hab&#237;a pasado o qu&#233;
+      @aranea_talk ARANEA: No. Aquel suceso sigue envuelto en un halo de misterio. Si nos fiamos del limitado testimonio de Mituna, es muy pro8a8le que Kurloz, al estar con &#233;l en la noche de autos, sea su &#250;nico testigo. Pero de &#233;l no podemos sacar nada en claro, as&#237; que me temo que nunca sa8remos la verdad.
+      @meenah_talk MEENAH: vaya por fin una historia interesante
+      @meenah_creepylaugh MEENAH: me alegro de haber cobrao por este calvario -E)(
+      @aranea_happier ARANEA: &#161;Desde luego! ::::D
+      <!--  -->
+      </args>
+      <action command='setGameState'>expo,true</action>
+</action>
+
+
+
+<action class='expoTalk3' command='talk' name='H&#225;blame de Kurloz Makara.'>
+      <args>
+      @aranea_happytalk ARANEA: El Pr&#237;ncipe de la Rabia sol&#237;a ser muy locuaz, pero por culpa de una pesadilla se vio involucrado en un incidente de lo m&#225;s extra&#241;o y desde entonces no ha vuelto a a8rir la 8oca. Desde entonces hace voto de silencio, seguramente por esa religi&#243;n esot&#233;rica suya. Con el tiempo se ha vuelto un hom8re mucho m&#225;s misterioso e irritante. No entiendo lo que quieren decir ni sus mimos ni sus am8ig&#252;edades, de ah&#237; que me sea imposi8le sa8er nada so8re &#233;l. Estoy decidida a reca8ar todos los datos que pueda de nuestra historia y a m&#237; esto me molesta.
+      @aranea_annoyedtalk ARANEA: &#191;Te cuento un secreto? No se lo digas a nadie, pero a m&#237; ese t&#237;o me cae gordo.
+      @aranea_talk ARANEA: S&#233; que es injusto; tiene cara de no ha8er roto un plato en su vida. Pero hay algo en &#233;l que me escama. Supongo que yo tam8i&#233;n puedo ser algo mezquina. 
+      @meenah_idle MEENAH: aj&#225;...
+      @meenah_wut MEENAH: joer serket
+      @meenah_annoyed MEENAH: ah&#237; te has pasao t&#237;a
+      @meenah_fish MEENAH: pobre payaso
+      @aranea_angrytalk ARANEA: &#161;No me vengas con esas! Si la memoria no me falla, t&#250; tambi&#233;n ha8la8as mal de &#233;l a sus espaldas.
+      @meenah_creepy MEENAH: jaja te lo has cre&#237;do es un panoli
+      @meenah_idle MEENAH: bueno
+      @meenah_idle MEENAH: &#191;se acab&#243; la chachara?
+      @aranea_happy ARANEA: As&#237; es.
+      @meenah_annoyed MEENAH: ka
+      @meenah_annoyed MEENAH: ching
+      <!--  -->
+      </args>
+      <action command='setGameState'>expo,true</action>
+</action>
+
+
+
+<action class='expoTalk4' command='talk' name='H&#225;blame de Meulin Leijon.'>
+      <args>
+      @aranea_happytalk ARANEA: Como ya sa8r&#225;s, la Maga del Coraz&#243;n es una disc&#237;pula apasionada de la ciencia rom&#225;ntica. Se ha ganado su merecid&#237;sima reputaci&#243;n o8rando milagros al celestinear. Sin em8argo, resulta ir&#243;nico que su propia vida amorosa estuviera plagada de desamores y penurias.
+      @aranea_happytalk ARANEA: Mucho antes de iniciar nuestra sesi&#243;n, Meulin y Kurloz tuvieron una matespriti&#243;n muy profunda, tan profunda que parec&#237;an hechos el uno para el otro. Un d&#237;a, mientras Kurloz dorm&#237;a en los 8razos de su amada, este tuvo una pesadilla tan aterradora que de su 8oca solo sali&#243; un sonido fruto de su inconmensura8le pavor. Era equipara8le al terror del Inmenso Honk. Por culpa de aquel ruido atronador, Meulin se qued&#243; completamente sorda y ya nunca jam&#225;s volver&#237;a a o&#237;r. No hay duda de que Kurloz qued&#243; desolado por lo que ocurri&#243;; tan desolado, que se cosi&#243; la 8oca y ya nunca jam&#225;s volvi&#243; a pronunciar pala8ra.
+      @aranea_happytalk ARANEA: Su matespriti&#243;n se vino a8ajo, pero Meulin jam&#225;s le guard&#243; rencor. Es m&#225;s, se alegra8a de aprender nuevas formas de comunicarse. Todav&#237;a siguen siendo amigos &#237;ntimos, en mi opini&#243;n, puede que demasiado &#237;ntimos. Est&#225; claro que su empat&#237;a hacia &#233;l se ha ido transformando poco a poco en devoci&#243;n al Altasangre. Ella nunca ha8la de sus creencias, pero a veces se le escapan algunas doctrinas de su alegre religi&#243;n. No creo que de8a preocuparme, ya que no son m&#225;s que supersticiones.
+      @meenah_creepy MEENAH: )(ONK
+      @aranea_happier ARANEA: &#161;Honk, honk! ::::)
+      @meenah_happytalk MEENAH: jajaja me alegra que todo ese rollo de los payasos y los refrescos te parezca a ti tambi&#233;n la mayor gilipollez del mundo
+      @aranea_happy ARANEA: Claro. Aqu&#237; tienes tu dinero. &#161;Gracias por escucharme!
+      @meenah_happytalk MEENAH: ay serki mira que eres tonta hija
+      @meenah_happy MEENAH: &lt;3
+      <!--  -->
+      </args>
+      <action command='setGameState'>expo,true</action>
+</action>
+
+	</classes>
+</sburb>

@@ -1,0 +1,183 @@
+<sburb description='mituna dialogs'>
+	<classes>
+		<action sprite='meenah' class='mitunaTalk1' command='talk' name='Hablar con Mituna.'> <args>
+      @meenah_happy MEENAH: ey chaval
+      @meenah_happytalk MEENAH: buena acrobacia
+      @meenah_happytalk:#casi-unos-tres-metros MEENAH: estaba dispuesta a chocarte los cinco pero creo que te pillaba lejos
+      @mituna_agitated%alttextbox_4chan:#FFFFFFFFFFFTHTFHTFTHFF MITUNA: 8U4HH FFFF D1051015 D105
+      @meenah_wut MEENAH: eh tranquilo no te rayes
+      @meenah_talk MEENAH: luego me la chocas si eso
+      @meenah_happy MEENAH: aqu&#237; no hay pelma que se quede sin palma
+      @mituna_angry%alttextbox_4chan MITUNA: N0 40R4 84M05 4LL L10G
+      @mituna_angry2%alttextbox_4chan MITUNA: G0D3R
+      @mituna_fall%alttextbox_4chan:#LKGH;V451D4031NJDN01GP3 MITUNA: M1R333DH4 M3 H3 VUL3L70 4 K43R
+      @meenah_annoyed MEENAH: d&#233;jalo en serio
+      @meenah_annoyedtalk MEENAH: tampoco quiero que te mates por esa tonter&#237;a
+      @mituna_talk%alttextbox_4chan MITUNA: Q3U T3 F0FY3 UN P3TZ
+      @meenah_annoyedtalk MEENAH: sigues siendo igual de desagradable que siempre
+      @meenah_annoyedtalk MEENAH: y yo que pensaba que te controlar&#237;as un poco mejor despu&#233;s de morirte
+      @mituna_agitated%alttextbox_4chan MITUNA: 5HUP4M3 L4 M4DRIG3R4 PH371D4 AZ5K3R050 CU80 D3D C380
+      @meenah_wut2 MEENAH: c&#243;rtate un poco no
+      @meenah_talk:#etiqu&#233;talo-por-lo-menos MEENAH: y oye yo que t&#250; tendr&#237;a cuidado con lo que dices
+      @meenah_talk MEENAH: que si no kankri te soltar&#225; el rollo ese de las injurias
+      @mituna_sad%alttextbox_4chan MITUNA: P3RD0N
+      @meenah_idle MEENAH: bueno ser&#233; breve
+      @meenah_idle MEENAH: quiero saber solo una cosa
+      @meenah_fish MEENAH: t&#250; has llegao a ser god tier mi at&#250;n
+      @mituna_talk%alttextbox_4chan MITUNA: C0CK0M0
+      @mituna_sad%alttextbox_4chan MITUNA: N0G
+      @mituna_facepalm%alttextbox_4chan MITUNA: 0 QU154 51
+      @mituna_spaz2%alttextbox_4chan:#??/??/////5 MITUNA: QK13N 54835
+      @meenah_idle MEENAH: bueeeno
+      @meenah_creepy MEENAH: anda qu&#237;tate esa ropa tan radical y ver&#233; si te encuentro las alas
+      @mituna_laugh%alttextbox_4chan MITUNA: 3J3JJ3J7J37J37J3 533H
+      @mituna_happytalk%alttextbox_4chan MITUNA: LY4 3R4 H0RH4 T14
+      @mituna_agitated%alttextbox_4chan:#84RR0#HUR370#&#209;0C0 MITUNA: &#161;M4D4 C0M0M N 8UN3 RR480 PR4 LL3Y4R53L45 L4L U3R70 C0&#209;0!
+      @mituna_spaz1%alttextbox_4chan:#!!!!!!!!!! MITUNA: UN M0M0MT0 T14
+      @mituna_facepalm%alttextbox_4chan:#8( MITUNA: &#191;M3 4LLUD45 A1 QU174RM3 3L P0LL0?
+      @meenah_annoyedtalk MEENAH: mejor d&#233;jatelo puesto si total pa lo que dices
+      @mituna_sad%alttextbox_4chan M1TUN4: P3RD0N
+      @meenah_talk MEENAH: conoces a otra persona que haya llegado al god tier en plan a escondidas
+      @mituna_happytalk%alttextbox_4chan MITUNA: P05N0 P3RR0 P0GD1R4M05 D35NUD4R 4 T0D05 L05 Q3 35H74N 3N L4 80R8UJ4
+      @mituna_laugh%alttextbox_4chan:#&#161;&#161;&#161;&#161;&#161;&#161;&#161;&#161;&#161;&#161;&#161;&#161;&#161;&#161;70M4-Y4!!!!!!!!!!!!!! MITUNA: 7U L4 P1RM3R4 3J37J3J3737J3
+      @meenah_idle MEENAH: eres
+      @meenah_annoyed MEENAH: lo peor
+      @mituna_shine~dialogimg_mituna1%alttextbox_4chan
+       </args>
+</action>
+
+<action sprite='meenah' class='mitunaTalk2' command='talk' name='Pedirle a Mituna que se una.'> <args>
+      @meenah_creepylaugh MEENAH: eh mi at&#250;n te apuntas a la caza del jaja nada no puedo aguantarme la risa
+      @mituna_talk%alttextbox_4chan MITUNA: N0N L0 QU3 M3 4P3N3C3
+      @mituna_agitated%alttextbox_4chan MITUNA: 35 53N71R 353 3Q1L18R1R0 LL3N80 D3 P3L1NGR05 Y P3R515573N514 508R3 M1 748L4 D3 L05 0H5714Z05
+      @mituna_idle%alttextbox_4chan:#D3P0RN0T3 MITUNA: 0 M4RCK4RM3 N GR1MD N0 S3
+      @meenah_idle MEENAH: y d&#243;nde le dar&#225;s al tema
+      @mituna_idle%alttextbox_4chan MITUNA: P35 M1R4
+      @mituna_idle%alttextbox_4chan MITUNA: Y4 QU3 3574M05
+      @mituna_happy%alttextbox_4chan MITUNA: N 7U5 P3X05
+      @meenah_wut MEENAH: qu&#233; grima das joder
+      @meenah_annoyed MEENAH: cu&#225;nta paciencia tendr&#225; latula
+      @mituna_sad%alttextbox_4chan MITUNA: P3RD0N
+      @mituna_idle%alttextbox_4chan MITUNA: 0 M3J0R D1C0H
+      @mituna_spaz1%alttextbox_4chan:#! MITUNA: V373 4 T0M4R P0R L P70 CUL0 PH4Y4S4 D3 L05 P7U05 C0J0N35 K S3GUR0 QU 7 M3T35 3L PU70 71D3N73 S3 X 41 CH0RRR34ND0 PU74 M3R1D4 J0D3R PU74 P7U774 PU74 PU74 PU74
+      @meenah_idle MEENAH: bueno
+      @meenah_idle:#aunque-no-he-entendido-ni-la-mitad MEENAH: te habr&#225;s quedao a gusto macho
+      @meenah_talk MEENAH: y c&#243;mo es que todav&#237;a hay mancos entre la pesca
+      @meenah_idle MEENAH: pero si estamos en el m&#225;s all&#225;
+      @meenah_talk MEENAH: pyrope sigue sin poder oler nada
+      @meenah_talk:#no-me-digas-que-leijon-sigue-como-una-tapia MEENAH: y t&#250; a&#250;n andas con el cerebro medio jodido
+      @meenah_talk MEENAH: yo ya paso de todo este rollo existencialista
+      @mituna_idle%alttextbox_4chan MITUNA: G4RR4F0N
+      @meenah_angrytalk MEENAH: &#161;&#161;&#161;TUS MU-ERTOS NI&#209;O!!!
+      @kankri_talk KANKRI: Me estais 96ligand9 a intervenir en la c9nversaci9n antes de que vaya a pe9r y sea tarde para retirar los c9mentari9s hirientes.
+      @meenah_wut2:#lo-que-faltaba MEENAH: 
+      @kankri_talk:#injuria#grave#9fensiv9#expl9siv9#prejuici9s#ent9rpecimient9#pr96lemas KANKRI: Se que te cuesta entenderl9, Mituna, per9 es9 que has dich9 es una injuria muy grave a la par que 9fensiva para c9n su casta ya que, c9m9 sa6ras, era l9 que mas se emplea6a para denigrar a nuestr9s c9mpatri9tas maritim9s, asi c9m9 a las castas terrestres partidarias de una f9rma de g96iern9 9presiva pr9pia de las fucsias. De6em9s darn9s cuenta de que tant9 la Realeza Vi9leta c9m9 aquell9s p9c9s de may9r caracter n96iliari9 (ver6igracia, Meenah) g9zan de privilegi9s astr9n9mic9s en c9mparaci9n c9n la n9-arist9cracia; p9r l9 tant9, n9 p9dem9s emplear las mismas transgresi9nes que ya usam9s para apartar a es9s p96res sin privilegi9s del pan9rama s9ci9l9gic9. Dich9 est9, n9 hay que 9lvidar que un lenguaje expl9siv9 es el pe9r de l9s prejuici9s y s9l9 c9nduce al ent9rpecimient9 del dial9g9 a6iert9 que trate de pr96lemas s9ciales realmente imp9rtantes.
+      @mituna_facepalm%alttextbox_4chan MITUNA: .................,....
+      @kankri_talk4:#capacitism9#ign9rar-privilegi9s#anzuel9#sumersi9n#&#191;sig9-c9n-el-lexic9-maritim9? KANKRI: Y, Meenah, entiend9 que te sientas indignada p9r esa expresi9n tan difamat9ria. Es n9rmal, per9 te recuerd9 que de6em9s tener un p9c9 mas de paciencia c9n Mituna, ya sa6es que el es alg9 especial. Te l9 rueg9: n9 muerdas el anzuel9 de sus pala6ras, aunque las pr9nuncie sin maldad (?), 9 te sumergiras en un am6iente cargad9 de p9lemica y expresi9nes pr96lematicas relaci9nadas c9n la discriminaci9n, las injurias y demas f9rmas de capacitism9; t9d9 ell9 un cas9 clar9 de ign9rar nuestr9s pr9pi9s privilegi9s.
+      @meenah_annoyed MEENAH: qui&#233;n co&#241;o te ha dado barco de vela en este entierro vantas
+      @meenah_annoyed MEENAH: y c&#243;mo has llegado hasta aqu&#237;
+      @meenah_annoyed MEENAH: no te veo por aqu&#237; al menos no f&#237;sicamente qu&#233; huevas las tuyas para meterte as&#237; en una conversaci&#243;n ajena
+      @meenah_fish:#y-&#225;brete MEENAH: anda haz como las ostras
+      @kankri_idle KANKRI: Aunque p9r 9tra parte, rec9n9zc9 que la existencia de Mituna 96staculiza pr96lematicamente el desarr9ll9 de la c9nciencia capacitista p9r n9 ha6lar de las multiples repercusi9nes negativas que recaen s96re las pers9nas incapacitadas. La verdad es que ya p9dria ha6lar mej9r y dejarse de tant9 alarde de int9lerancia y anim9sidad. Me pre9cup9 p9r el, c9m9 pers9na y c9m9 amig9, per9 si va c9mp9rtand9se asi, &#191;que quieres que le haga? Y, sinceramente, su casc9 n9 me hace mucha gracia.
+      @mituna_sad%alttextbox_4chan MITUNA: QUH3 L3 P44S4 4 M1 C4C50 8(
+      @kankri_talk2 KANKRI: Nada, amig9 mi9. Es un casc9 muy 69nit9 y te queda de maravilla. Per9 &#191;significa es9 que t9d9 aquel que padezca de una discapacidad similar a la tuya ha de llevar casc9? Puede que haya 9tras pers9nas que n9 se tr9piecen ni se den g9lpes en la ca6eza c9nstantemente.
+      @mituna_sad%alttextbox_4chan MITUNA: P3HR0 35 QU3 YY0 M3 7R0P13Z0 Y M3 D0Y G0PL35 3N L4 C4B3Z4 C05NT4NT3T3M3NM3
+      @kankri_talk4 KANKRI: L9 se, y es mej9r que sigas llevand9l9 puest9, p9r tu seguridad. Mas aun cuand9 te da p9r hacer el cafre c9n esa ta6la del dem9ni9. El pr96lema esta en el mensaje que transmite el mism9, asi c9m9 en varias c9sas relaci9nadas c9n tu pers9nalidad y existencia, nada mas. 
+      @mituna_sad%alttextbox_4chan MITUNA: P3RD0N
+      @kankri_talk3 KANKRI: Eres mi amig9, n9 te cam6iaria p9r nada. 6uen9, algunas c9sas si que cam6iaria. L9 que quier9 decir es que estas haciend9 un flac9 fav9r, a ti y a l9s discapacitad9s que te r9dean, c9n ese aire de previsi6ilidad c9n el que engarzas tus taras. Te l9 dig9 c9n t9da la sensi6ilidad del mund9.
+      @meenah_talk MEENAH: vantas no le hables as&#237; so cretino
+      @kankri_talk KANKRI: En fin, n9 pretendia distraer9s de l9 vuestr9, ya me v9y. P9deis seguir c9n vuestra platica, per9 n9 9s 9lvideis de l9s pr96lemas que 9s he expuest9.
+      @meenah_wut2 MEENAH: vaya mierda de amigos que tengo
+  </args>
+</action>
+
+
+<!--@ MITUNA AFTER MEENAH RETURNS-->
+
+<action sprite='meenah' class='mitunaTalk4'  command='talk' name='Hablar con Mituna.'><args>
+      @meenah_happytalk MEENAH: t&#250; no hagas caso a esos memos chaval
+      @mituna_agitated%alttextbox_4chan MITUNA: C13RR4H 3L 8UZ5F0N H4RP14 F0L8L451RL3N45
+      @meenah_annoyedtalk MEENAH: bueno por una vez que intento ser amable
+      @mituna_shine~dialogimg_mituna3%alttextbox_4chan
+      @meenah_angry MEENAH: &#161;oye!
+      @meenah_angrytalk MEENAH: ese mimo deber&#237;a usarlo YO contigo no me jodas
+      @meenah_annoyedtalk MEENAH: si eres una enfermedad mental con patas
+      @meenah_annoyedtalk MEENAH: contigo me vuelvo loca captor
+      @meenah_wut2 MEENAH: qu&#233; co&#241;o hago todav&#237;a aqu&#237; en serio vamos a ponernos ya con la aventura
+</args>
+</action>
+
+<action sprite='cronus' class='mitunaTalk5' command='talk' name='Hablar con Mituna.'><args>
+      @cronus_talk CRONUS: ah, por cierto. he estado travvajando en un nuevwo tema que a lo mejor te...
+      @mituna_agitated%alttextbox_4chan MITUNA: M3 D45 45C0 Y 7U MU51C4 35 PU74 M13RD4
+      @cronus_surprised CRONUS: co&#241;o. jajaja, wvale t&#237;o. 
+      @cronus_huh CRONUS: no pasa nada, en serio. me has hecho tanto da&#241;o que no puedo ni expresarlo con palavvras, pero qu&#233; m&#225;s da.
+      @cronus_talk:#la-hechicer&#237;a-era-una-MODA-pasajera CRONUS: ahora en serio: qu&#233;date aqu&#237;, que le vwoy a hacer un truco de "magia" a peixes. no es un truco de wverdad porque tras unos dolorosos percances acaecidos en mi adolescencia, qued&#233; convwencido de que la magia no exist&#237;a.
+      @cronus_talk CRONUS: no te muewvas, procura no caerte y, SOVVRE TODO, que nadie te vwea.
+      @mituna_happy%alttextbox_4chan MITUNA: CH4CH1H
+      </args>
+</action>
+
+
+<!--@ MITUNA AFTER MEENAH RETURNS-->
+
+<action sprite='cronus' class='mitunaTalk7' command='talk' name='Hablar con Mituna.'>
+      @cronus_sad CRONUS: pues nada.
+      @cronus_sad CRONUS: la he cagado, pero a vvase de vvien.
+      @mituna_laugh%alttextbox_4chan:#M3 M0ND0N#M3M0 ND0#MM3M30MDN0N#3M M0N0#M3MMN0N0D MITUNA: 4J4J4J4JJ44J4J
+      @cronus_bored CRONUS: en fin, hora de intentar suicidarme OTRA VEZ.
+      @cronus_bored CRONUS: no lo wvoy a hacer realmente, pero si digo que he intentado matarme, igual la gente me hace caso.
+      @mituna_idle%alttextbox_4chan MITUNA: D3V 3RD4D
+      @cronus_bored CRONUS: no.
+      @mituna_happytalk%alttextbox_4chan MITUNA: 1GU4L D383R14M05 47R35V3RN05
+      @cronus_huh CRONUS: ...&#191;los dos juntos?
+      @mituna_happy%alttextbox_4chan MITUNA: CL4R70
+      @cronus_bored CRONUS: esto no tiene ni pies ni cavveza pero, nyeh, &#191;por qu&#233; no?
+      @cronus_bored CRONUS: ya no lo aguanto m&#225;s, mituna. este povvre fantasma va a pasar a mejor vwida.
+      @mituna_spaz1%alttextbox_4chan MITUNA: &#161;&#161;&#161;&#161;&#161;V3NGH4 V4M05 4L L10!!!!!
+      @cronus_surprised CRONUS: esto...
+      @cronus_surprised CRONUS: &#191;literalmente?
+      @mituna_agitated%alttextbox_4chan:#J0D373J0D373J0D373J0D373J0D373 MITUNA: Q3U N0 V373 P0R 4H1 M4LD710 35C0M8R80 4ZUL3J0 
+      @cronus_sad2 CRONUS: oh.
+      <!--  -->
+</action>
+
+<!--@ MITUNA AFTER DISCOVERING MEENAH MISSING-->
+
+<action sprite='cronus' class='mitunaTalk6' command='talk' name='Cantar las cuarenta a Mituna.'><args>
+      @cronus_angry CRONUS: &#161;EH! &#191;no dije que te quedaras quieto?
+      @mituna_angry%alttextbox_4chan MITUNA: &#191;KKH3K3?
+      @cronus_angry CRONUS: te dije que no movwieras ni un solo m&#250;sculo.
+      @mituna_idle%alttextbox_4chan:#1 MITUNA: 5
+      @cronus_bored CRONUS: pues meenah se ha largado. ALGUIEN la havvr&#225; ahuyentado.
+      @cronus_bored CRONUS: seguro que estavvas en las nuvves mientras te lo dec&#237;a. claro, te ha vwisto y havvr&#225; tomado las de wvilladiego.
+      @mituna_happy%alttextbox_4chan MITUNA: P3R0 5H1 M3 H3 QU3HD4D0 4QU1 70D0 3575 713MP0
+      @cronus_bored CRONUS: marawvilloso. primero juegas con mis fr&#225;giles sentimientos y ahora esto. muchas gracias, "amigo".
+      @mituna_sad%alttextbox_4chan MITUNA: P3RD0N
+      @cronus_angry CRONUS: y una polla, mentiroso.
+      @cronus_angry CRONUS: yo no me trago que padezcas de vvifurquismo. "oh, soy mituna. a veces me pongo a gritar incongruencias a la gente, pero otras veces no ser&#237;a capaz ni de romper un plato". ya, "CLARO".
+      @cronus_angry CRONUS: te tengo CALAD&#205;SIMO, chaval. te haces el tonto porque a las nenas les mola ese rollo. puede que con pyrope haya funcionado, pero YO ya me conozco el truco del almendruco. &#191;&#191;me vwas a dar lecciones de dar pena a M&#205;??
+      @mituna_talk%alttextbox_4chan MITUNA: QU3 35 350 D3L 4LM3NDRURC0
+      @cronus_angry CRONUS: silencio. estoy harto de que me repliques.
+      @cronus_sad2 CRONUS: pasar&#225;n EONES hasta que la vvalanza wvuelwva a inclinarse a mi favwor, y todo por tu culpa. &#191;a qui&#233;n co&#241;o se le ocurre salir a la calle con esa puta escafandra?
+      @mituna_sad%alttextbox_4chan MITUNA: P3RD0N
+      @cronus_angry CRONUS: &#191;te quieres callar? &#191;sabes acaso lo que hac&#237;an los de mi casta a los mostaza como t&#250; en alternia? dios, qu&#233; he hecho yo para acavvar en este uniwverso y en ESTE cuerpo.
+      @cronus_angry CRONUS: estoy hasta aqu&#237; de toda esta pantomima. &#191;respetarte? si ni siquiera SA8ES cu&#225;ntas cicatrices llevwo en la frente. wvenga, &#191;cu&#225;l es tu n&#250;mero favworito? seguro que ni aun con esas me lo dices.      @mituna_happytalk%alttextbox_4chan MITUNA: &#161;&#161;&#161;&#161;&#161;&#161;&#161;&#161;&#161;&#161;&#161;&#161;&#161;&#161;&#161;&#161;&#161;&#161;&#161;&#161;&#161;&#161;&#161;3L D05!!11!!!!111!!!!!1111111
+      @cronus_angry CRONUS: que dejes de interrumpirme. eres asqueroso, como persona y como amigo. 
+      @mituna_sad~dialogimg_mituna2%alttextbox_4chan  
+      @cronus_angry CRONUS: si latula est&#225; contigo es por pura lastima. no te quiere, ni ella ni nadie. 
+      @mituna_sad~dialogimg_mituna2%alttextbox_4chan 
+      @cronus_angry CRONUS: no eres m&#225;s que un pringao cavveza hueca. de entre todos los pringaos del grupo t&#250; eres un pringao por partida dovvle. te juro que, si por mi fuera, al tridente ivvas. y lo digo con la acepci&#243;n de alternia.
+      @meenah_fish MEENAH: -EJ-EM
+      @cronus_surprised CRONUS: esto...
+      @cronus_surprised CRONUS: &#161;meenah!
+      @cronus_surprised CRONUS: hmm. vwaya...
+      @cronus_surprised CRONUS: VWAYA WVAYA	
+      @cronus_huh CRONUS: oye...
+      @cronus_happy CRONUS: &#191;cu&#225;nto tiempo llevwas ah&#237;?
+      @meenah_annoyed MEENAH: gilipollas
+      </args>
+</action>
+
+	</classes>
+</sburb>
